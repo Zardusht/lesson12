@@ -519,14 +519,12 @@ footer {
     }
     .project {
         width: 100%;
-        height: 50vh;
     }
     .layer {
         visibility: visible;
     }
     .project h3 {
         top: 0;
-        line-height: 50vh;
         font-size: 18px;
     }
     .wocs-area {
